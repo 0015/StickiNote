@@ -1,6 +1,9 @@
 ## **StickiNote – ESP32-P4 Digital Sticky Notes App**  
 
-![StickiNote Logo](./misc/logo.png)  
+<div align="center">
+
+![StickiNote Logo](./misc/logo.png)
+</div>
 
 **StickiNote** is a **modern, e-paper-styled digital sticky note app** designed specifically for high-performance **ESP32-P4-based embedded systems**. This project leverages the **fast clock speed of the ESP32-P4** and the **MIPI DSI interface for a 10-inch display**, ensuring smooth animations, fluid UI interactions, and an optimal user experience.  
 
